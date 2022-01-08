@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/SBME/Y 2/DataStructure/task4-bst-dina-khalid/my_tree.cpp
+iostream
+-
+my_tree.h
+D:/SBME/Y 2/DataStructure/task4-bst-dina-khalid/my_tree.h
+
+D:/SBME/Y 2/DataStructure/task4-bst-dina-khalid/my_tree.h
+iostream
+-
+cassert
+-
+queue
+-
+vector
+-
+algorithm
+-
+stack
+-
+

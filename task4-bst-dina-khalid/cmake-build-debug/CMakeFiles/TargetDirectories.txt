@@ -1,0 +1,3 @@
+D:/SBME/Y 2/DataStructure/task4-bst-dina-khalid/cmake-build-debug/CMakeFiles/task4_bst_dina_khalid.dir
+D:/SBME/Y 2/DataStructure/task4-bst-dina-khalid/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SBME/Y 2/DataStructure/task4-bst-dina-khalid/cmake-build-debug/CMakeFiles/rebuild_cache.dir

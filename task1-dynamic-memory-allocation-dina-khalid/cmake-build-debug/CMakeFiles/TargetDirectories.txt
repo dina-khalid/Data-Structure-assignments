@@ -1,0 +1,3 @@
+D:/SBME/Y 2/DataStructure/task1-dynamic-memory-allocation-dina-khalid/cmake-build-debug/CMakeFiles/task1_dynamic_memory_allocation_dina_khalid.dir
+D:/SBME/Y 2/DataStructure/task1-dynamic-memory-allocation-dina-khalid/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SBME/Y 2/DataStructure/task1-dynamic-memory-allocation-dina-khalid/cmake-build-debug/CMakeFiles/rebuild_cache.dir

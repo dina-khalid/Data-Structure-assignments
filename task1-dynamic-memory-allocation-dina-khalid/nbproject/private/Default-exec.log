@@ -1,0 +1,6 @@
+called: C:\cygwin64\bin\g++.exe
+	D:\SBME\Y 2\DataStructure\task1-dynamic-memory-allocation-dina-khalid
+	C:\cygwin64\bin\g++.exe
+	-std=c++11
+	test.cpp
+
